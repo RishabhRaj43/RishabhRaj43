@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Blender, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RishabhRaj43](https://github.com/RishabhRaj43)
+- 👨‍💻 All of my projects are available at [Click Here](https://github.com/RishabhRaj43?tab=repositories)
 
 - 💬 Ask me about **MERN**
 
