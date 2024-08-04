@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rishabhraj4675@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cmSQv5_UZQ0_rJFA1qLElK3xgHmPI6Sa/view](https://drive.google.com/file/d/1cmSQv5_UZQ0_rJFA1qLElK3xgHmPI6Sa/view)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1cmSQv5_UZQ0_rJFA1qLElK3xgHmPI6Sa/view)
   
 
 <h3 align="left">Connect with me:</h3>
