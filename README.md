@@ -23,7 +23,12 @@
 <a href="https://linkedin.com/in/rishabh-raj-verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh-raj-verma" height="30" width="40" /></a>
   
 <a href="https://www.geeksforgeeks.org/user/rishabh___raj/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/rishabh___raj/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/rishabh___raj/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="55" width="40" /></a>
+
+<a href="https://www.instagram.com/rishabhraj_41?igsh=YmlkNG1mNWlremw1" target="blank">
+<img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/62-instagram-512.png" height="40" width="40" /></a>
+
+
 </p>
 
 
