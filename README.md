@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on ***My Personal Portfolio and [Gmail Composer](https://github.com/RishabhRaj43/Gmail-Composer)***
 
-- 👨‍💻 All of my projects are available [Click Here](https://github.com/RishabhRaj43?tab=repositories)
+- 👨‍💻 All of my projects are available [Here](https://github.com/RishabhRaj43?tab=repositories)
 
 - 💬 Ask me about **MERN**
 
