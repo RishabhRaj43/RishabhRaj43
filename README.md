@@ -120,6 +120,6 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zenith-rish4bh&show_icons=true&locale=en&layout=compact" alt="zenith-rish4bh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhraj43&show_icons=true&locale=en&layout=compact" alt="rishabhraj43" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zenith-rish4bh&show_icons=true&locale=en" alt="zenith-rish4bh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhraj43&show_icons=true&locale=en" alt="rishabhraj43" /></p>
