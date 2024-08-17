@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/RishabhRaj43?tab=repositories)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN, Machine Learning**
 
 - 📫 How to reach me **rishabhraj4675@gmail.com**
 
