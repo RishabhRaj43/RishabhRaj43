@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Blender, Machine Learning**
 
-- 🔭 I’m currently working on ***My Personal Portfolio and [Disease Prediction using ML and MERN Stack](https://github.com/RishabhRaj43/Full-Stack-Disease-Prediction-and-Medicine-Recommendation) and [RealTime Chat App](https://github.com/RishabhRaj43/Chatverse)***
+- 🔭 I’m currently working on ***[RentWheels - A Car Rental System](https://github.com/RishabhRaj43/RentWheels---Car-Rental-System)***
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/RishabhRaj43?tab=repositories)
 
